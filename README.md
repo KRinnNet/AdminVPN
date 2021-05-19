@@ -138,7 +138,7 @@ Copy the Following content and save:
     Type=simple
     
     [Install]
-    WantedBy=multi-user.target`
+    WantedBy=multi-user.target
 
 After saving, you have to reload the SystemD configuration file, use the following command
 
